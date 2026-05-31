@@ -93,3 +93,11 @@ header{
 .card:hover{
     transform:scale(1.05);
 }
+footer{
+    text-align:center;
+    padding:20px;
+    margin-top:40px;
+    color:#ff6666;
+    font-size:14px;
+    border-top:1px solid rgba(255,255,255,0.1);
+}
